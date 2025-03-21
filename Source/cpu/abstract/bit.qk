@@ -1,0 +1,7 @@
+#BUILD BT;
+#REF BT;
+
+$DEV%SIGNED&CPU[ref/allowed]{
+  ref/allowed = 0,1;
+  if not in reference$allowed[sign$CPU&"CANT SIGN FILE"];
+}
