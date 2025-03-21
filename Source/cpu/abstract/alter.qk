@@ -1,0 +1,6 @@
+#BUILD ALT;
+#REF ALT;
+
+$DEV%SIGNED&CPU<ALT>[atline[ALT]]{
+DO[BIT1=BIT0];
+}
