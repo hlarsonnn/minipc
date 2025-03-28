@@ -1,0 +1,11 @@
+#BUILD PRS;
+#REF PRS;
+
+CPU&DEVICE(ref/PRS){
+  for PATTERN["0"] {
+    PATTERN[NEXT()];
+  }
+  for PATTERN["1"] {
+    
+  }
+}
